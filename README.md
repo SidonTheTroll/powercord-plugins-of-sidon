@@ -1,0 +1,1 @@
+# powercord-plugins-of-sidon
